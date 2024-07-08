@@ -18,3 +18,4 @@ jobs:
           ftp-password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./path/to/markdown/files
           remote-dir: /path/on/ftp/server
+# vamos oooooo
